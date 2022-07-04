@@ -38,5 +38,5 @@ Lalu Jalankan Scriptnya..
 >
 ## SOSMED
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Rachell-XD)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/rchellxd)[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/62895401319701?text=assalamualaikum+bang+rachell)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/rchellxd)
 ## JANGAN LUPA FOLLOW YA CUY GITHUBNYA
