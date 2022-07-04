@@ -1,15 +1,23 @@
 # CARA PENGINSTALAN
 
 $ pkg update && apt upgrade
+
 $ pkg install python
+
 $ pkg install python git
+
 $ pip install requests mechanize
+
 $ pip install rich bs4
+
 $ pip install --upgrade pip
+
 $ git clone https://github.com/Rachell-XD/yandex
+
 $ python goc.py
+
 # Logoblok
-![deskripsi gambar](https://i.ibb.co/KL5ZwvQ/Screenshot-20220704-185049-Trebuchet.pn
+![deskripsi gambar](https://i.ibb.co/KL5ZwvQ/Screenshot-20220704-185049-Trebuchet.png)
 
 
 ## DATA RCHL
