@@ -17,9 +17,8 @@ $ git clone https://github.com/Rachell-XD/yandex
 $ python goc.py
 
 # Logoblok
+memek
 ![deskripsi gambar](https://i.ibb.co/KL5ZwvQ/Screenshot-20220704-185049-Trebuchet.png)
-
-
 ## DATA RCHL
 >
 > *Number of visitors*
