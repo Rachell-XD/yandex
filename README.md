@@ -6,8 +6,6 @@ $ pkg install python
 
 $ pkg install python git
 
-$ pkg install play-audio
-
 $ pip install requests mechanize
 
 $ pip install rich bs4
@@ -18,7 +16,7 @@ $ git clone https://github.com/Rachell-XD/yandex
 
 $ cd yandex
 
-$ python goo.py
+$ python goc.py
 
 # CARA UPDATE
 $ cd $HOME
